@@ -25,3 +25,7 @@ mkdir foo
 ```bash
 mkdir -p foo/bar/1/2/3
 ```
+## Problema 6 (B)
+```bash
+rm -rf challenges/foo
+```
