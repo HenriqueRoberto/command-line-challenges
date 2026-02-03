@@ -87,3 +87,7 @@ ls -l
 ```bash
 echo "texto" >> restricted.txt
 ```
+## Problema 20 (B)
+```bash
+./hello_executable
+```
