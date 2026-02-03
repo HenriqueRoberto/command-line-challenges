@@ -61,6 +61,6 @@ cp challenges/hello.txt challenges/goodbye.txt
 ```
 ## Problema 14 (B)
 ```bash
-mv goodby.txt hello_copy.txt
+mv goodbye.txt hello_copy.txt
 ```
 
