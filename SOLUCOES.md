@@ -17,3 +17,7 @@ cd challenges
 ```bash
 ls
 ```
+## Problema 4 (B)
+```bash
+mkdir foo
+```
