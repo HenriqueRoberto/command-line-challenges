@@ -83,3 +83,7 @@ pwd
 ```bash
 ls -l
 ```
+## Problema 19 (B)
+```bash
+echo "texto" >> restricted.txt
+```
