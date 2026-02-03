@@ -79,3 +79,7 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
 pwd
 ```
 
+## Problema 18 (B)
+```bash
+ls -l
+```
