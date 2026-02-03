@@ -64,8 +64,13 @@ cp challenges/hello.txt challenges/goodbye.txt
 mv goodbye.txt hello_copy.txt
 ```
 
-## PRoblema 15 (I)
+## Problema 15 (I)
 ```bash
 
 diff hello.txt hello_copy.txt
+```
+## Problema 16 (B)
+```bash
+cat hello.txt hello_copy.txt > 2_hellos.txt
+
 ```
