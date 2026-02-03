@@ -42,3 +42,7 @@ echo "Hello World" > challenges/hello.txt
 ```bash
 touch challenges/empty.txt
 ```
+## Problema 10 (B)
+```bash
+rm challenges/empty.txt
+``` 
