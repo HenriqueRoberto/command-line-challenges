@@ -193,9 +193,4 @@ BONUS: Create a challenge of your own and ask a friend to complete it.
 Congratulations! You've completed all of the challenges. If you haven't
 already, go back through and find different ways to do some of the challenges.
 Compare notes with a friend!
-=======
-## Problema 1 (B)
-
-```bash
-tar -xzf challenges.tar.gz
 
