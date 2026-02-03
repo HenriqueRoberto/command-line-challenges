@@ -21,3 +21,7 @@ ls
 ```bash
 mkdir foo
 ```
+## Problema 5 (I)
+```bash
+mkdir -p foo/bar/1/2/3
+```
