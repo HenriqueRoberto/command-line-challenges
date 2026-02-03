@@ -46,3 +46,7 @@ touch challenges/empty.txt
 ```bash
 rm challenges/empty.txt
 ``` 
+## Problema 11 (I)
+```bash
+> challenges/empty.txt
+```
