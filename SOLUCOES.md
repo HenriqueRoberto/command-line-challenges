@@ -33,3 +33,8 @@ rm -rf challenges/foo
 ```bash
 echo "Hello World"
 ```
+
+## Problema 8 (B)
+```bash
+echo "Hello World" > challenges/hello.txt
+``` 
