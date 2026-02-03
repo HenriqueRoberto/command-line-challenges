@@ -50,3 +50,8 @@ rm challenges/empty.txt
 ```bash
 > challenges/empty.txt
 ```
+## Problema 12 (i)
+
+```bash
+echo -n "" > challenges/empty2.txt
+```
