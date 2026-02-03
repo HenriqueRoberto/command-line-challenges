@@ -38,3 +38,7 @@ echo "Hello World"
 ```bash
 echo "Hello World" > challenges/hello.txt
 ``` 
+## Problema 9 (B)
+```bash
+touch challenges/empty.txt
+```
