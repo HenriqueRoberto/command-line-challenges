@@ -29,3 +29,7 @@ mkdir -p foo/bar/1/2/3
 ```bash
 rm -rf challenges/foo
 ```
+## Problema 7 (B)
+```bash
+echo "Hello World"
+```
