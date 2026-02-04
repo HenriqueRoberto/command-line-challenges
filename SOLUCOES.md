@@ -180,3 +180,8 @@ tail -n +2 people.csv | cut -d',' -f2 | sort -u | wc -l
 cut -d',' -f2 people.csv | grep -v '^last_name$' | sort -u | wc -l
 
 ```
+## Problema 41 (A)
+```bash
+time sh -c "cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l"
+```
+
