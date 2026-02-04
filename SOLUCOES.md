@@ -223,3 +223,8 @@ cd bunch_of_files && md5sum * | grep "$(md5sum file001.rand | cut -d' ' -f1)"
 touch supercalifragilisticexpialidocious.txt
 rm s*
 ```
+## Problema 50 (A)
+```bash 
+touch {a,b,c}-{1,2,3}.txt
+```
+
