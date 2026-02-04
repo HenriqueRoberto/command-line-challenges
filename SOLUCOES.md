@@ -209,3 +209,8 @@ rm -f *deleteme*
 ```bahs
 grep -Rl "You found the needle in the haystack!" bunch_of_files | xargs sed -i 's/You found the needle in the haystack!/The needle has been removed./'
 ```
+## Problema 47 (A)
+```bash
+tr ',' '|' < people.csv > people_pipe.csv
+```
+
