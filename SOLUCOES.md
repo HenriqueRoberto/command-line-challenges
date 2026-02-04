@@ -140,12 +140,16 @@ tail -n 25 people.csv
 diff greeting1.txt greeting2.txt
 ```
 
-
 ## Problema 32 (I)
 ```bash
 echo "Hello"; sleep 5; echo "world!"
 ```
-## PRoblema 33 (I)
+## Problema 33 (I)
 ```bash
 if=/dev/zero of=zeros.bin bs=1M count=1
 ```
+## Problema 34 (I)
+```bash
+dd if=/dev/urandom of=random.bin bs=1M count=2
+```
+
