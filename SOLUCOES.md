@@ -214,3 +214,7 @@ grep -Rl "You found the needle in the haystack!" bunch_of_files | xargs sed -i '
 tr ',' '|' < people.csv > people_pipe.csv
 ```
 
+## PRoblema 48 (A)
+```bash
+cd bunch_of_files && md5sum * | grep "$(md5sum file001.rand | cut -d' ' -f1)"
+```
