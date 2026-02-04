@@ -105,3 +105,7 @@ gcc compile_me.c -o compile_me && ./compile_me
 ```bash
 ./redirect > output.txt 2>&1
 ```
+## Problema 24 (B)
+```bash
+date
+```
