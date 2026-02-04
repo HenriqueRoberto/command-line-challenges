@@ -161,3 +161,8 @@ wc -l README.md
 ```bash
 tac README.md  
 ```
+## Problema 37 (I)
+```bash
+cut -d',' -f2 people.csv | tail -n +2
+``
+
