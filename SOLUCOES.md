@@ -190,3 +190,8 @@ time sh -c "cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l"
 grep -c '^Josiah,' people.csv
 
 ```
+## Problema 43 (I)
+```bash
+find -maxdepth 1 -type f | wc -l
+```
+
