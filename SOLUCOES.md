@@ -153,3 +153,7 @@ if=/dev/zero of=zeros.bin bs=1M count=1
 dd if=/dev/urandom of=random.bin bs=1M count=2
 ```
 
+## Problema 35 (I)
+```bash
+wc -l README.md
+```
