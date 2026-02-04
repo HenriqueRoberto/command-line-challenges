@@ -185,3 +185,8 @@ cut -d',' -f2 people.csv | grep -v '^last_name$' | sort -u | wc -l
 time sh -c "cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l"
 ```
 
+## Problema 42 (A)
+```bash
+grep -c '^Josiah,' people.csv
+
+```
