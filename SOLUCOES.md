@@ -170,3 +170,8 @@ cut -d',' -f2 people.csv | tail -n +2
 ```bash
 cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
 ```
+## Problema 39 (A)
+```bash
+tail -n +2 people.csv | cut -d',' -f2 | sort -u | wc -l
+```
+
