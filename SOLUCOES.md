@@ -157,3 +157,7 @@ dd if=/dev/urandom of=random.bin bs=1M count=2
 ```bash
 wc -l README.md
 ```
+## Problema 36 (B)
+```bash
+tac README.md  
+```
