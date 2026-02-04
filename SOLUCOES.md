@@ -175,3 +175,8 @@ cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
 tail -n +2 people.csv | cut -d',' -f2 | sort -u | wc -l
 ```
 
+## Problema 40 (A)
+```bash
+cut -d',' -f2 people.csv | grep -v '^last_name$' | sort -u | wc -l
+
+```
