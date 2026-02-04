@@ -169,5 +169,4 @@ cut -d',' -f2 people.csv | tail -n +2
 ## Problema 38 (A)
 ```bash
 cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
-
 ```
