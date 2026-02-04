@@ -194,3 +194,9 @@ Congratulations! You've completed all of the challenges. If you haven't
 already, go back through and find different ways to do some of the challenges.
 Compare notes with a friend!
 
+
+## Resolutions
+
+The challenge solutions are in **SOLUCOES.md**.
+
+
